@@ -1,16 +1,28 @@
-# basketball_point_counter
+# Basketball Point Counter
+### A Flutter app that counts a basketball game points
 
-A new Flutter project.
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Learnings](#learnings)
+* [Installation](#installation)
+* [Usage](#usage)
 
-## Getting Started
+## General info
+This is a simple Flutter application implementing a Flutter basics by doing section 8.Basketball Point Counter, in which is a part of the 
+![Complete Flutter & Dart Development Course Arabic]([https://www.udemy.com/course/best-and-complete-flutter-course-for-beginners/?couponCode=KEEPLEARNING]) by ![Tharwat Samy](https://www.linkedin.com/in/tharwat-samy-363aa7177/).
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<img src="https://github.com/AGreynoon/basketball_point_counter/blob/main/screenshots/Screenshot_01.png" width="500" height="1000"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Learnings
+During this project, I focused on practicing the following Flutter concepts:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation:
+1. Clone this repository.
+2. Ensure you have Flutter installed (https://docs.flutter.dev/get-started/install).
+3. Run `flutter pub` get to install dependencies.
+
+## Usage:
+* Run `flutter run` to launch the app on your device or simulator.
