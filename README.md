@@ -18,6 +18,10 @@ This is a simple Flutter application implementing a Flutter basics by doing sect
 
 ## Learnings
 During this project, I focused on practicing the following Flutter concepts:
+* **Widgets:** I implemented various widgets like `StatefulWidget`, `AppBar`, `Buttons`, `onPressed`, and `setState`.
+* **Style:** How to style widgets such as changing colors, sizes, and behaviors.
+* **State:** Understand how `StatefulWidget` and its state works, and how to use `setState` for passing data or to do any operation that will change the data that is displayed on the screen, also behind the screen.
+* **UI:** How to style the UI in general.
 
 ## Installation:
 1. Clone this repository.
