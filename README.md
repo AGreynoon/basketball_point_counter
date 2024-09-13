@@ -1,5 +1,5 @@
 # Basketball Point Counter
-### A Flutter app that counts a basketball game points
+### A Flutter app counts a basketball game points
 
 ## Table of contents
 * [General info](#general-info)
